@@ -1,0 +1,19 @@
+{
+    "name": "valzargaming/handler",
+    "description": "A class used for routing and handling callbacks.",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Valithor Obsidion",
+            "email": "valithor@valzargaming.com"
+        }
+    ],
+	"require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Handler\\": "src/"
+        }
+    }
+}
