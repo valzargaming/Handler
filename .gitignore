@@ -29,3 +29,8 @@ composer.lock
 phpunit.log
 /.phpunit*
 /coverage
+/build/
+/.phpdoc/
+/tools/
+/phive.xml
+/.phive/
